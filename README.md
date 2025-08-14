@@ -31,4 +31,3 @@ This project analyzes a cosmetics review dataset to uncover patterns in product 
 - **Visualization**: Matplotlib, Seaborn
 - **Environment**: Jupyter Notebook
 
-## Repository Structure
