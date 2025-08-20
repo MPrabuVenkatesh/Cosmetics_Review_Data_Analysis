@@ -24,7 +24,7 @@ This project analyzes a cosmetics review dataset to uncover patterns in product 
 ### 4. Brand Reputation
 - **Top Rated:** Kay Beauty (~4.7), Nykaa Cosmetics (~4.6)
 - **Lowest Rated:** Olay (~3.6)
-- Brands with high sales also maintain strong ratings, showing high customer loyalty.
+- Brands with high sales also maintain strong ratings, showing high customer loyalty
 
 ## Tools & Libraries
 - **Python**: Pandas, NumPy
